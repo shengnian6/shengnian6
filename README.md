@@ -5,7 +5,7 @@
 - 🎓 我在 **克莱蒙奥弗涅大学** 学习 **电力电子**专业
 - 👨‍💻 我对 **FPGA和图像处理** 领域比较感兴趣
 - 📫 你可以通过 **<yeshengnian666@gmail.com>** 联系我
-- **编程语言**: [Verilog,VHDL,Python,C,C++]
+- 💼 **编程语言**: [Verilog,VHDL,Python,C,C++]
   
 ***
 ***
@@ -17,4 +17,4 @@ I am currently studying engineering at Polytech. For me, I hope to conduct resea
 - 🎓 I am studying **Power Electronics** at **University of Clermont Auvergne**
 - 👨‍💻 I am more interested in the field of **FPGA and image processing**
 - 📫 You can contact me at **<yeshengnian666@gmail.com>**
-- **Programming Language**: [Verilog,VHDL,Python,C,C++]
+- 💼 **Programming Language**: [Verilog,VHDL,Python,C,C++]
